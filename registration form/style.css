@@ -1,0 +1,13 @@
+/* registration form style */
+.error {
+    color: red;
+}
+
+.form{
+    background-image: url("img/bg1.avif");
+    height:400px;
+    width:180px;
+}
+#registrationForm{
+    padding: 35px;
+}
